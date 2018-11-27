@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -2163,3 +2164,7 @@ To resolve this:
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
 "# ITTicketingSystem" 
+=======
+# ITTicketingSystem
+IT ticketing system for RMIT university using React - WDA assignment 2
+>>>>>>> a0cbb5746fc675d6a083df7082f1440a13da036f

@@ -1,7 +1,7 @@
 
 # ITTicketingSystem
 IT ticketing system for RMIT university using React - WDA assignment 2
-To run type ### `npm start` in the commandline.
+To run type `npm start` in the command line.
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
